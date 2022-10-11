@@ -9,7 +9,7 @@ function setup() {
 }
 
 function preload() {
-    img = loadImage("dog_cat.jpg");
+    img = loadImage("img1.jpg");
 }
 
 function modelLoaded() {
